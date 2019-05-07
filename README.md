@@ -22,6 +22,9 @@ After extracting features from the input images, I trained a Random Forest class
 
 It’s also interesting to note that the Random Forest trained on the spiral dataset obtained 76.00% sensitivity, meaning that the model was capable of predicting a true positive (i.e., “Yes, the patient has Parkinson’s”) nearly 76% of the time.
 
+Dataset available [here](https://drive.google.com/drive/folders/1M9LUWGyFkCJZyPdhcfeMtP6CyV9Vs6c_?usp=sharing)
+
+
 ## Outputs
 ![parkinsons](https://user-images.githubusercontent.com/29462447/57289106-63231080-70d8-11e9-8a0b-f83218c2f475.png)
 
